@@ -6,7 +6,7 @@
 - [x] scaffold basic ui with mock data
 - [x] tidy up build process
 - [x] set up database (vercel postgres)
-- [ ] attach database to UI
+- [x] attach database to UI
 - [ ] auth
 - [ ] image upload
 - [ ] error management (sentry)
